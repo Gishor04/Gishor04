@@ -9,11 +9,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gishor14@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gishor04.github.io/my-portfolio)
 
-<img src="25407.jpeg" width="150" style="border-radius: 50%;" alt="Gishor Rajendra"/>
+<img src="https://raw.githubusercontent.com/Gishor04/my-portfolio/main/25407.jpeg" width="150" style="border-radius: 50%;" alt="Gishor Rajendra"/>
 
-*Passionate about building robust backend systems, cross-platform mobile applications,*
-*and intelligent automation workflows.*
-
+🌱 I'm currently working on real-world software engineering projects — building robust backend systems, cross-platform mobile applications, and intelligent workflow automation solutions.
 </div>
 
 ---
