@@ -29,13 +29,13 @@
 ## 💼 Work Experience
 
 ### 🏢 Automation Engineer (Junior) — *Digitweb Lanka (PVT) LTD, Jaffna*
-`2024 – Present`
+`2025 – 2026`
 - ⚙️ 1+ year experience in workflow automation using **N8N**
 - 🔍 Technical analysis of websites for efficiency & performance improvements
 - 🤖 Developed **AI Agents**, **OCR** solutions for PDF/image data extraction, and automated attachment downloading workflows
 
 ### 🏢 Backend Developer Intern — *Samuel Gnanam IT Center, Sri Lanka*
-`2023 – 2024`
+`2024 – 2025`
 - 🔗 Built **RESTful APIs** with Java & Spring Boot for a Defect Tracker System
 - 🗄️ Designed and optimized **MySQL** relational databases
 - 🔐 Implemented **Spring Security + JWT** with role-based access control (RBAC)
